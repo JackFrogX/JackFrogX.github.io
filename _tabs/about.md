@@ -4,3 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+Một người có đam mê với việc làm game.
