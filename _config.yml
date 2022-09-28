@@ -16,12 +16,12 @@ lang: vi
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Ho_Chi_Minh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: JackFrogX                          # the main title
+title: Hoàng Việt Bách                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
