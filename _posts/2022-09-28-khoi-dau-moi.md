@@ -1,6 +1,6 @@
 ---
 title: Mục đích của việc làm site này
-date:
+date: 2022-09-28 11:56:00 -500
 categories: []
 tags: [first-post]
 ---
