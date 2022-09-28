@@ -1,11 +1,9 @@
 ---
-title: hello
-date: 2022-05-23 12:00:00 -500
+title: Mục đích của việc làm site này
+date:
 categories: []
 tags: [first-post]
 ---
-
-# Mục đích của việc làm site này
 
 ![](https://mastermedia.vn/wp-content/uploads/2022/08/Game-design-and-development-vector-iso-1.jpg)
 
